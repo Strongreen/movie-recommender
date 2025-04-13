@@ -58,5 +58,5 @@ def test_get_recommendations():
     
     print("IDs recomendados:", recommended_ids)
     
-    assert movie3["id"] in recommended_ids, f"O filme: {movie3['id']} na lista de recomendados, mas não foi encontrado."
+    assert movie3["id"] in recommended_ids, f"O filme esperado: {movie3['id']} na lista de recomendados, mas não foi encontrado."
 
