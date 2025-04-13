@@ -116,7 +116,7 @@ Verifica cobertura de testes e garante que tudo está funcionando 💯
 👤 **/usuarios**  
 - `POST /usuarios`: Cria um novo usuário  
 - `GET /usuarios`: Lista todos os usuários cadastrados  
-- `GET /usuarios{user_id}`: Lista um usuário pelo ID  
+- `GET /usuarios/{user_id}`: Lista um usuário pelo ID  
 - `DELETE /usuarios/{user_id}`: Deleta um usuário pelo ID 
 
 ⭐ **/classificacoes**  
@@ -254,5 +254,5 @@ Distribuído sob a licença **MIT**. Veja `LICENSE` para mais detalhes.
 
 ---
 
-Se curtiu, deixa uma ⭐ lá no GitHub!  
+Se curtiu, deixa uma ⭐ no GitHub!  
 Feito com 💙 por [strongreen](https://github.com/strongreen)
