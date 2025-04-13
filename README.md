@@ -25,7 +25,6 @@
 
 - 🐍 Python 3.12
 - ⚡ FastAPI
-- 🧠 scikit-learn
 - 💃 SQLite
 - 🌐 Uvicorn (ASGI server)
 - 🧪 Pytest (testes automatizados)
