@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlmodel
+scikit-learn
+pandas
+pydantic
+httpx
+pytest
+pytest-cov
