@@ -121,8 +121,8 @@ Verifica cobertura de testes e garante que tudo está funcionando 💯
 
 ⭐ **/classificacoes**  
 - `POST /classificacoes`: Avalia um filme 
-- `GET /classificacoes/{user_id}`: Lista as classificações do usuário
-- `GET /classificacoes/{user_id}`: Lista as classificações do filme
+- `GET /classificacoes/usuarios/{user_id}`: Lista as classificações do usuário
+- `GET /classificacoes/filmes/{movie_id}`: Lista as classificações do filme
 
 
 🎯 **/classificacoes/{usuario_id}/recomendacoes**  
